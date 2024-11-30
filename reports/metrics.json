@@ -1,0 +1,8 @@
+{
+    "original_url": "http://example.com",
+    "clicks": 3,
+    "click_data": [
+        {"timestamp": "2024-11-29T12:00:00", "location": {"country": "US", "city": "New York"}},
+        {"timestamp": "2024-11-29T13:00:00", "location": {"country": "US", "city": "Los Angeles"}}
+    ]
+}
